@@ -14,6 +14,8 @@ We implemented a class of ***Normalizing Flows*** called **Masked Autoregressive
 
 In a nutshell, the flow takes a normal distribution and applies successive **invertible** transformations to it to achieve the desired probability distrubution.
 
+# Testing
+
 We then compared our results to a standard MCMC on the same data (using the emcee package)
 
 Using a standardised statistic like the KS-Test, we conclude that the Normalizing Flow is quite good at reproducing the MCMC results.
