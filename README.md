@@ -1,6 +1,7 @@
 # Remnant-Inverse
 
 ***Summer Project in June-July 2022 with Matthew Mould & Davide Gerosa***
+The presentation of my work is available [here]{https://drive.google.com/file/d/1riPIv31fIuuAlT6dXhmXdM-2XmcYwpjv/view?usp=sharing}
 
 # The Problem
 
@@ -23,7 +24,6 @@ The Q-Q (Quantile) Plots confirms the same visually. (The plots are available in
 
 The network is then implmented on the **GW190412** event and the distribution of its parent's properties are obtained as a corner plot.
 
-Refer to the ppt for a comprehensive overview of this repository.
 
 
 
