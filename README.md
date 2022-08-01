@@ -21,6 +21,7 @@ In a nutshell, the flow takes a normal distribution and applies successive **inv
 We then compared our results to a standard MCMC on the same data (using the emcee package)
 
 Using a standardised statistic like the KS-Test, we conclude that the Normalizing Flow is quite good at reproducing the MCMC results.
+
 The Q-Q (Quantile) Plots confirms the same visually. (The plots are available in the ppt)
 
 The network is then implmented on the **GW190412** event and the distribution of its parent's properties are obtained as a corner plot.
